@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">testproject</string>
+    <string name="conntect_error">Internet connection is abnormal, data cannot be loaded</string>
+    <string name="warning">Warning</string>
+    <string name="yes">Yes</string>
+    <string name="noopen_info">No Information</string>
+    <string name="last_update_time">Last Update Time : </string>
+    <string name="feature">Feature</string>
+    <string name="identification">Identification</string>
+    <string name="introduction">Introduction</string>
+    <string name="alias">Alias</string>
+    <string name="flower_name">Flower Name</string>
+    <string name="flower_info">Flower Information</string>
+    <string name="open_webpage">Open Webpage</string>
+</resources>

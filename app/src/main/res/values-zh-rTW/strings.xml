@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">testproject</string>
+    <string name="conntect_error">網路連線異常，資料無法載入</string>
+    <string name="warning">警告</string>
+    <string name="yes">確認</string>
+    <string name="noopen_info">無休館資訊</string>
+    <string name="last_update_time">最後更新時間 : </string>
+    <string name="feature">功能性</string>
+    <string name="identification">辨認方式</string>
+    <string name="introduction">簡介</string>
+    <string name="alias">別名</string>
+    <string name="flower_name">植物名稱</string>
+    <string name="flower_info">植物資料</string>
+    <string name="open_webpage">在網頁開啟</string>
+</resources>
